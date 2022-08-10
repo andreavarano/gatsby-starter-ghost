@@ -25,7 +25,6 @@ const Page = ({ data, location }) => {
                 <div className="container">
                     <article className="content">
                         <h1 className="content-title">{page.title}</h1>
-    <h1>Ciao</h1>
                         {/* The main page content */}
                         <section
                             className="content-body load-external-scripts"
